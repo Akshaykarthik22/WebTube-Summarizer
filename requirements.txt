@@ -3,6 +3,7 @@ streamlit
 google-generativeai
 python-dotenv
 pathlib
+beautifulsoup4
 
 
 
